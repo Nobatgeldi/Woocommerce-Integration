@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Entegrasyon/Gitti/updateProduct.php" description="&#10;try&#10;{&#10;    $result = $client-&gt;updateProduct('',348..." line="112" />
+    <bookmark url="file://$PROJECT_DIR$/Entegrasyon/getProductsWoo.php" line="21" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="842f2e44-d685-4a41-b9bb-bb8af7f3ef78" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DataSync.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataSync/GetProduct/DataSync.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="105" column="55" lean-forward="true" selection-start-line="105" selection-start-column="55" selection-end-line="105" selection-end-column="55" />
+              <folding>
+                <element signature="e#87#409#0#PHP" expanded="false" />
+                <element signature="e#907#958#0#PHP" expanded="false" />
+                <element signature="e#2078#2259#0#PHP" expanded="false" />
+                <element signature="e#2808#3206#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Entegrasyon/Gitti/source/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StokKontrol.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataSync/SyncData/StokKontrol.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1320">
+              <caret line="79" column="22" lean-forward="true" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
+              <folding>
+                <element signature="e#87#116#0#PHP" expanded="false" />
+                <element signature="e#211#231#0#PHP" expanded="false" />
+                <element signature="e#595#646#0#PHP" expanded="false" />
+                <marker date="1525653494917" expanded="true" signature="806:854" ph="SELECT * FRO... na_posts" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>produ</find>
+      <find>$conf</find>
+      <find>getpro</find>
+      <find>$sign</find>
+      <find>$auth_user</find>
+      <find>clientConnect</find>
+      <find>sign</find>
+      <find>throw</find>
+      <find>getproducts</find>
+      <find>array</find>
+      <find>getprod</find>
+      <find>201919</find>
+      <find>specs</find>
+      <find>getpr</find>
+      <find>auth_user</find>
+      <find>insert</find>
+      <find>update</find>
+      <find>insertProducts</find>
+      <find>getProduct</find>
+      <find>updateProduct</find>
+      <find>relistProducts</find>
+      <find>sku</find>
+      <find>At</find>
+      <find>productCount</find>
+      <find>$apiKey</find>
+      <find>apiKey</find>
+      <find>motor</find>
+      <find>searchCatalog</find>
+      <find>categoryName</find>
+      <find>request</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Entegrasyon/Gitti/source/client.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Entegrasyon/Gitti/index.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data_gittigidiyor.php" />
+        <option value="$PROJECT_DIR$/Entegrasyon/Gitti/gelen _veri.xml" />
+        <option value="$PROJECT_DIR$/Entegrasyon/Gitti/loop_data.php" />
+        <option value="$PROJECT_DIR$/scripts/get_product.php" />
+        <option value="$PROJECT_DIR$/store_products.php" />
+        <option value="$PROJECT_DIR$/Entegrasyon/Gitti/exam.xml" />
+        <option value="$PROJECT_DIR$/gittigidiyor.php" />
+        <option value="$PROJECT_DIR$/Entegrasyon/Gitti/insert.xml" />
+        <option value="$PROJECT_DIR$/Entegrasyon/Gitti/inset_xml.php" />
+        <option value="$PROJECT_DIR$/Entegrasyon/Gitti/insertProduct.php" />
+        <option value="$PROJECT_DIR$/Entegrasyon/Gitti/InsertProductXML.php" />
+        <option value="$PROJECT_DIR$/Entegrasyon/Gitti/updateProduct.php" />
+        <option value="$PROJECT_DIR$/products.php" />
+        <option value="$PROJECT_DIR$/login/index.html" />
+        <option value="$PROJECT_DIR$/scripts/login.php" />
+        <option value="$PROJECT_DIR$/Entegrasyon/Gitti/getCategori.php" />
+        <option value="$PROJECT_DIR$/Entegrasyon/products.php" />
+        <option value="$PROJECT_DIR$/gitti.xml" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/woo.txt" />
+        <option value="$PROJECT_DIR$/DataSync/addWoo.php" />
+        <option value="$PROJECT_DIR$/Categori/wooCate.txt" />
+        <option value="$PROJECT_DIR$/GetData/wooProduct.txt" />
+        <option value="$PROJECT_DIR$/Entegrasyon/Gitti/TestData.php" />
+        <option value="$PROJECT_DIR$/DataSync/config.ini" />
+        <option value="$PROJECT_DIR$/Entegrasyon/getProductsWoo.php" />
+        <option value="$PROJECT_DIR$/Categori/product.xml" />
+        <option value="$PROJECT_DIR$/Entegrasyon/Gitti/source/client.php" />
+        <option value="$PROJECT_DIR$/Categori/result.txt" />
+        <option value="$PROJECT_DIR$/Categori/GetCategories.php" />
+        <option value="$PROJECT_DIR$/DataSync/CategoryFunction.php" />
+        <option value="$PROJECT_DIR$/scripts/connection.php" />
+        <option value="$PROJECT_DIR$/assets/backup/buttons.html" />
+        <option value="$PROJECT_DIR$/assets/loader.js" />
+        <option value="$PROJECT_DIR$/assets/backup/index.html" />
+        <option value="$PROJECT_DIR$/urunler.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/Categori/GetCategoriesWoo.php" />
+        <option value="$PROJECT_DIR$/Categori/GittiCategoryUpdate.php" />
+        <option value="$PROJECT_DIR$/DataSync/DataSync.php" />
+        <option value="$PROJECT_DIR$/DataSync/WoocomAdd.php" />
+        <option value="$PROJECT_DIR$/DataSync/GetProduct/addWoo.php" />
+        <option value="$PROJECT_DIR$/DataSync/SyncData/WooExample.php" />
+        <option value="$PROJECT_DIR$/DataSync/connection.php" />
+        <option value="$PROJECT_DIR$/DataSync/GetProduct/WoocomAdd.php" />
+        <option value="$PROJECT_DIR$/DataSync/WooExample.php" />
+        <option value="$PROJECT_DIR$/Entegrasyon/Gitti/index.php" />
+        <option value="$PROJECT_DIR$/DataSync/SyncData/StokKontrol.php" />
+        <option value="$PROJECT_DIR$/sync.txt" />
+        <option value="$PROJECT_DIR$/Entegrasyon/Gitti/source/config.ini" />
+        <option value="$PROJECT_DIR$/DataSync/GetProduct/DataSync.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5">
+    <include_path>
+      <path value="C:\wamp64\www\estore" />
+      <path value="$PROJECT_DIR$/vendor/automattic/woocommerce" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="25" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="panel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panel" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="panel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panel" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Entegrasyon" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="panel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panel" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Entegrasyon" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Gitti" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="panel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="panel" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Entegrasyon" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Gitti" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="source" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\panel" />
+      <recent name="C:\wamp64\www\panel\DataSync" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\panel\DataSync" />
+      <recent name="C:\wamp64\www\panel\DataSync\GetProduct" />
+      <recent name="C:\wamp64\www\panel" />
+      <recent name="C:\wamp64\www\panel\assets" />
+      <recent name="C:\wamp64\www\panel\backup" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.DataSync.php">
+    <configuration name="DataSync.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/DataSync/GetProduct/DataSync.php" />
+    <configuration name="GetCategoriesWoo.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Categori/GetCategoriesWoo.php" />
+    <configuration name="StokKontrol.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/DataSync/SyncData/StokKontrol.php" />
+    <configuration name="WooExample.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/DataSync/WooExample.php" />
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Entegrasyon/Gitti/index.php" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.DataSync.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.GetCategoriesWoo.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.WooExample.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.StokKontrol.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.index.php" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.DataSync.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.StokKontrol.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.index.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.WooExample.php" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script.GetCategoriesWoo.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="842f2e44-d685-4a41-b9bb-bb8af7f3ef78" name="Default" comment="" />
+      <created>1524414953208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524414953208</updated>
+      <workItem from="1524414955340" duration="19912000" />
+      <workItem from="1524474711385" duration="7758000" />
+      <workItem from="1524822865956" duration="672000" />
+      <workItem from="1524925293404" duration="13990000" />
+      <workItem from="1524949816368" duration="17098000" />
+      <workItem from="1525113313208" duration="13731000" />
+      <workItem from="1525290756942" duration="16272000" />
+      <workItem from="1525368455118" duration="15873000" />
+      <workItem from="1525438449952" duration="2607000" />
+      <workItem from="1525530364552" duration="9980000" />
+      <workItem from="1525543447773" duration="38302000" />
+      <workItem from="1525592279272" duration="643000" />
+      <workItem from="1525611892510" duration="11685000" />
+      <workItem from="1525633494752" duration="3457000" />
+      <workItem from="1525636972541" duration="333000" />
+      <workItem from="1525637325560" duration="198000" />
+      <workItem from="1525642491380" duration="12367000" />
+      <workItem from="1525682516876" duration="3960000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="188838000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17604166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.63539445" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="0" y="23" width="1920" height="1027" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39978677" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19402985" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/Options.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/Request.php" />
+    <entry file="file://$PROJECT_DIR$/REST-API/lib/woocommerce-api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="30" column="52" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/REST-API/example/composer-example.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/REST-API/example/example.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="48" column="30" lean-forward="false" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Categori/wooCate.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitti.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="49" column="26" lean-forward="false" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Entegrasyon/products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Entegrasyon/Gitti/TestData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Entegrasyon/info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSync/conf.ini" />
+    <entry file="file://$PROJECT_DIR$/Entegrasyon/getProductsWoo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="56" lean-forward="false" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/catalog-CPnu2.xml">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="660">
+          <caret line="123" column="8" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="123" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Categori/product.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Categori/result.xml" />
+    <entry file="file://$PROJECT_DIR$/Categori/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="8909" column="17" lean-forward="true" selection-start-line="8909" selection-start-column="17" selection-end-line="8909" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/automattic/woocommerce/tests/bootstrap.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/automattic/woocommerce/tests/WooCommerce/Tests/ClientTest.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/automattic/woocommerce/src/WooCommerce/Client.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php" />
+    <entry file="file://$PROJECT_DIR$/scripts/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="44" column="4" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="45" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="2" lean-forward="false" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webhook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/loader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/backup/buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="256" column="0" lean-forward="false" selection-start-line="256" selection-start-column="0" selection-end-line="257" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_n11.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1320">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urunler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1319">
+          <caret line="80" column="13" lean-forward="false" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="301" column="51" lean-forward="false" selection-start-line="301" selection-start-column="51" selection-end-line="301" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gittigidiyor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="282" column="47" lean-forward="false" selection-start-line="282" selection-start-column="47" selection-end-line="282" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Categori/GetCategories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSync/GetProduct/CategoryFunction.php" />
+    <entry file="file://$PROJECT_DIR$/Categori/GittiCategoryUpdate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="68" column="20" lean-forward="true" selection-start-line="68" selection-start-column="20" selection-end-line="80" selection-end-column="21" />
+          <folding>
+            <element signature="e#324#404#0#PHP" expanded="false" />
+            <element signature="e#955#1006#0#PHP" expanded="false" />
+            <element signature="e#1700#2714#0#PHP" expanded="false" />
+            <element signature="e#2778#2838#0#PHP" expanded="false" />
+            <marker date="1525629587589" expanded="true" signature="1489:1538" ph="SELECT * FRO... na_terms" />
+            <marker date="1525629587589" expanded="true" signature="2027:2075" ph="SELECT * FRO... na_posts" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Entegrasyon/Gitti/source/client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="247" column="29" lean-forward="false" selection-start-line="247" selection-start-column="29" selection-end-line="247" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSync/GetProduct/addWoo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
+    <entry file="file://$PROJECT_DIR$/Categori/GetCategoriesWoo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSync/WooExample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSync/GetProduct/WoocomAdd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="77" column="47" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="77" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSync/connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetData/wooProduct.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1892">
+          <caret line="86" column="11" lean-forward="false" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/get_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <marker date="1525297246993" expanded="true" signature="327:1135" ph="SELECT p.id,... wpjo_posts" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Entegrasyon/Gitti/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sync.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSync/SyncData/StokKontrol.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="79" column="22" lean-forward="true" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
+          <folding>
+            <element signature="e#87#116#0#PHP" expanded="false" />
+            <element signature="e#211#231#0#PHP" expanded="false" />
+            <element signature="e#595#646#0#PHP" expanded="false" />
+            <marker date="1525653494917" expanded="true" signature="806:854" ph="SELECT * FRO... na_posts" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Entegrasyon/Gitti/source/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSync/GetProduct/DataSync.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="105" column="55" lean-forward="true" selection-start-line="105" selection-start-column="55" selection-end-line="105" selection-end-column="55" />
+          <folding>
+            <element signature="e#87#409#0#PHP" expanded="false" />
+            <element signature="e#907#958#0#PHP" expanded="false" />
+            <element signature="e#2078#2259#0#PHP" expanded="false" />
+            <element signature="e#2808#3206#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,125 @@
+["products"]=>
+  [title] => Einhell Ge-Em 1536 Hw Elektrikli Çim Biçme Makinası
+      [id] => 22
+      [created_at] => 2018-05-05T15:37:52Z
+      [updated_at] => 2018-05-05T16:10:37Z
+      [type] => simple
+      [status] => publish
+      [downloadable] =>
+      [virtual] =>
+      [permalink] => http://rss.covisart.com/product/einhell-ge-em-1536-hw-elektrikli-cim-bicme-makinasi/
+      [sku] => 347791995
+      [price] => 429.00
+      [regular_price] => 429.00
+      [sale_price] =>
+      [price_html] => <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#8378;</span>&nbsp;429,00</span>
+      [taxable] =>
+      [tax_status] => taxable
+      [tax_class] =>
+      [managing_stock] => 1
+      [stock_quantity] => 50
+      [in_stock] => 1
+      [backorders_allowed] =>
+      [backordered] =>
+      [sold_individually] =>
+      [purchaseable] => 1
+      [featured] =>
+      [visible] => 1
+      [catalog_visibility] => visible
+      [on_sale] =>
+      [product_url] =>
+      [button_text] =>
+      [weight] =>
+      [dimensions] => stdClass Object
+          (
+              [length] =>
+              [width] =>
+              [height] =>
+              [unit] => cm
+          )
+
+      [shipping_required] => 1
+      [shipping_taxable] => 1
+      [shipping_class] =>
+      [shipping_class_id] =>
+      [description] => <p>Einhell GE-EM 1536 HW Elektrikli Çim Biçme Makinası 1500 Watt güçlü karbon motoru ile 600 m² civarında olan bahçelerin çim biçme işleri için ideal bir makinadır. 6 kademeli yükseklik ayarı ile farklı çim boyları için yükseklik ayarlanabilir. 40 litrelik geniş çim haznesi ara vermeden uzun süreler çalışılmasını sağlar.   ÖZELLİKLER Yüksek torklu güçlü karbon motor 6 kademe merkezi kesme yüksekliği ayarı(25-75 mm) Çift katlanır tutmak ile düşük yer işgali Kenarlara yakın çim biçme kabiliyeti Güvenlik tertibatlı ayarlanabilir tutamak Taşıma kulbu Geniş tekerlekler ile düşük çim ezilme ve iz oranı Seviye göstergeli 40 litre çim haznesi Yüksek kaliteli, darbe dayanımlı plastik gövde Güç kablosu çekerek kopmaya karşı gerginlik güvenlik aparatı   TEKNİK BİLGİLER Giriş voltajı  230 V | 50 Hz Güç  1500 W Kesme yükseklik ayarı  6 kademe 25-75 mm | merkezi Çim haznesi kapasitesi  40 L Ön teker çapı  145 mm Arka teker çapı  220 mm Kesme genişliği  360 mm   LOJİSTİK BİLGİLER Net ağırlık  13.3 kg Brüt ağırlık  15.5 kg Ambalaj boyutları  765x490x370 mm         Almış olduğunuz her ürün Pars Endüstri güvencesiyle tam 24 ay garantilidir.   Tüm müşterilerimize aynı özenli ilgi ile en iyi ürünü en iyi fiyata alabilmeleri için 27 yıllık tecrübe ve deneyimimizi kullanarak satış öncesi ve sonrası hizmet sunuyoruz. Bu sayede güvenli bir alış-veriş keyfini sizlere yaşatıyor ve memnun yüzleriniz sayesinde çalışma motivasyonumuzu arttırıyoruz.   Üstelik simdi sizin için tüm ürünlerde Kargo Bedava!</p>
+
+      [short_description] => <p>GittigidiyorID:347791995</p>
+
+      [reviews_allowed] => 1
+      [average_rating] => 0.00
+      [rating_count] => 0
+      [related_ids] => Array
+          (
+          )
+
+      [upsell_ids] => Array
+          (
+          )
+
+      [cross_sell_ids] => Array
+          (
+          )
+
+      [parent_id] => 0
+      [categories] => Array
+          (
+              [0] => Uncategorized
+          )
+
+      [tags] => Array
+          (
+          )
+
+      [images] => Array
+          (
+              [0] => stdClass Object
+                  (
+                      [id] => 0
+                      [created_at] => 2018-05-05T16:20:40Z
+                      [updated_at] => 2018-05-05T16:20:40Z
+                      [src] => http://rss.covisart.com/wp-content/plugins/woocommerce/assets/images/placeholder.png
+                      [title] => Placeholder
+                      [alt] => Placeholder
+                      [position] => 0
+                  )
+
+          )
+
+      [featured_src] =>
+      [attributes] => Array
+          (
+              [0] => stdClass Object
+                  (
+                      [name] => GittigidiyorID
+                      [slug] => GittigidiyorID
+                      [position] => 0
+                      [visible] =>
+                      [variation] =>
+                      [options] => Array
+                          (
+                              [0] => 347791995
+                          )
+
+                  )
+
+          )
+
+      [downloads] => Array
+          (
+          )
+
+      [download_limit] => -1
+      [download_expiry] => -1
+      [download_type] => standard
+      [purchase_note] =>
+      [total_sales] => 0
+      [variations] => Array
+          (
+          )
+
+      [parent] => Array
+          (
+          )
+
+  )

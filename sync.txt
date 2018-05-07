@@ -1,0 +1,91 @@
+***************************************************************************
+Element:0
+Site Bilgiler: 414 Control Fly Karasinek Mücadele İlacı 1 kg
+Woo Stok:
+Gittigidiyor ID:348961000
+Gitti Title:Control Fly Karasinek Mücadele İlacı 1 kg
+Gitti Stok:10
+***************************************************************************
+Element:1
+Site Bilgiler: 418 Control Fly Karasinek Mücadele İlacı 100 Gr
+Woo Stok:
+Gittigidiyor ID:348961011
+Gitti Title:Control Fly Karasinek Mücadele İlacı 100 Gr
+Gitti Stok:150
+***************************************************************************
+Element:2
+Site Bilgiler: 408 Baco TU 26 Pülverizator İlaçlama Motoru 1.5 Hp
+Woo Stok: 10
+Gittigidiyor ID:348960975
+Gitti Title:Baco TU 26 Pülverizator İlaçlama Motoru 1.5 Hp
+Gitti Stok:10
+***************************************************************************
+Element:3
+Site Bilgiler: 410 Yat YT6905 Elektrikli Tırpan 1200 watt
+Woo Stok: 5
+Gittigidiyor ID:348960983
+Gitti Title:Yat YT6905 Elektrikli Tırpan 1200 watt
+Gitti Stok:5
+***************************************************************************
+Element:4
+Site Bilgiler: 411 Gardena 3099 Combisystem Plastik Ayarlanabilen Tırmık
+Woo Stok: 5
+Gittigidiyor ID:348960990
+Gitti Title:Gardena 3099 Combisystem Plastik Ayarlanabilen Tırmık
+Gitti Stok:5
+***************************************************************************
+Element:5
+Site Bilgiler: 412 Baco TU 26L Çit Budama Makinası Motoru
+Woo Stok: 15
+Gittigidiyor ID:348960993
+Gitti Title:Baco TU 26L Çit Budama Makinası Motoru
+Gitti Stok:15
+***************************************************************************
+Element:6
+Site Bilgiler: 413 Einhell TC-AC 190/8 Kit Hava Kompresoru
+Woo Stok: 10
+Gittigidiyor ID:348960994
+Gitti Title:Einhell TC-AC 190/8 Kit Hava Kompresoru
+Gitti Stok:10
+***************************************************************************
+Element:7
+Site Bilgiler: 415 Gardena 18295 Hortum Bağlantı Temel Set
+Woo Stok: 10
+Gittigidiyor ID:348961003
+Gitti Title:Gardena 18295 Hortum Bağlantı Temel Set
+Gitti Stok:10
+***************************************************************************
+Element:8
+Site Bilgiler: 416 Yat YT5238 Elektrikli Kenar Kesme ve Tırpan
+Woo Stok: 10
+Gittigidiyor ID:348961004
+Gitti Title:Yat YT5238 Elektrikli Kenar Kesme ve Tırpan
+Gitti Stok:10
+***************************************************************************
+Element:9
+Site Bilgiler: 417 Gardena 3567 Alüminyum Çöp Toplayıcı
+Woo Stok: 5
+Gittigidiyor ID:348961006
+Gitti Title:Gardena 3567 Alüminyum Çöp Toplayıcı
+Gitti Stok:5
+***************************************************************************
+Element:10
+Site Bilgiler: 419 Oregon Kollu İlaçlama Pompası 16 Lt
+Woo Stok: 10
+Gittigidiyor ID:348961021
+Gitti Title:Oregon Kollu İlaçlama Pompası 16 Lt
+Gitti Stok:10
+***************************************************************************
+Element:11
+Site Bilgiler: 421 Gardena 3715 Combisistem Alumınyum Sap 150 Cm
+Woo Stok: 9
+Gittigidiyor ID:348961025
+Gitti Title:Gardena 3715 Combisistem Alumınyum Sap 150 Cm
+Gitti Stok:9
+***************************************************************************
+Element:12
+Site Bilgiler: 423 Gardena 18305 Premium Temizleme Tabancası
+Woo Stok: 10
+Gittigidiyor ID:Gardena
+failure
+Process finished with exit code 0

@@ -1,0 +1,50 @@
+<prod:getProductResponse xmlns:prod="https://product.individual.ws.listingapi.gg.com">
+    <return>
+        <ackCode>success</ackCode>
+        <responseTime>08/11/2010 10:34:51</responseTime>
+        <timeElapsed>244 ms</timeElapsed>
+        <productDetail>
+            <itemId>100gdk</itemId>
+            <productId>32351190</productId>
+            <product>
+                <categoryCode>gdk</categoryCode>
+                <storeCategoryId>425193</storeCategoryId>
+                <title>Kodak Z915 12MP</title>
+                <specs>
+                    <spec required="true" value="Kullanılmış" name="Durumu" />
+                    <spec required="true" value="10.0 - 11.9 MP" name="Çözünürlük (Megapiksel)" />
+                    <spec required="true" value="Kodak" name="Marka" />
+                </specs>
+                <photos>
+                    <photo photoId="0">
+                        <url>http://images.gittigidiyor.com/3235/32351190_0.jpg</url>
+                    </photo>
+                </photos>
+                <pageTemplate>1</pageTemplate>
+                <description>Kodak Z915 Fotograf Makinesi 10Mp 50X zoom</description>
+                <catalogId>0</catalogId>
+                <catalogDetail>0</catalogDetail>
+                <format>S</format>
+                <buyNowPrice>240.0</buyNowPrice>
+                <listingDays>30</listingDays>
+                <productCount>1</productCount>
+                <cargoDetail>
+                    <city>34</city>
+                    <cargoCompanies>
+                        <cargoCompany>aras</cargoCompany>
+                    </cargoCompanies>
+                    <shippingPayment>B</shippingPayment>
+                    <cargoDescription />
+                    <shippingWhere>country</shippingWhere>
+                </cargoDetail>
+                <affiliateOption>false</affiliateOption>
+                <boldOption>false</boldOption>
+                <catalogOption>false</catalogOption>
+                <vitrineOption>false</vitrineOption>
+            </product>
+            <summary>
+                <listingStatus>L</listingStatus>
+            </summary>
+        </productDetail>
+    </return>
+</prod:getProductResponse>

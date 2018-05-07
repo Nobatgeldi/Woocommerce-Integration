@@ -1,0 +1,34 @@
+[1] => stdClass Object
+(
+    [id] => 17
+    [name] => Deneme
+    [slug] => cbdc
+    [parent] => 0
+    [description] =>
+    [display] => default
+    [image] =>
+    [menu_order] => 0
+    [count] => 0
+    [_links] => stdClass Object
+        (
+            [self] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [href] => http://rss.covisart.com/wp-json/wc/v2/products/categories/17
+                        )
+
+                )
+
+            [collection] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [href] => http://rss.covisart.com/wp-json/wc/v2/products/categories
+                        )
+
+                )
+
+        )
+
+)
